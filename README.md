@@ -1,4 +1,3 @@
-# SF.M9.FINAL_WORK
 It is final work on module 9 from Skill Factory.
 Multy users chat on windows terminal.
 
@@ -11,6 +10,7 @@ Multy users chat on windows terminal.
 1. Имя.
 2. Логин.
 3. Пароль.
+
 Методы:
 1. getLogin() - получение логина.
 2. getPass() - получение пароля
@@ -21,6 +21,7 @@ Multy users chat on windows terminal.
 1. _from
 2. _to;
 3. _text;
+
 Методы:
 1. read - для чтения файлов 
 2. getFrom - получение логина отправителя
@@ -31,10 +32,13 @@ Multy users chat on windows terminal.
 Векторы:
 1. _users для хранения зарегестрированных пользователей.
 2. _messages для хранения сообщений.
+
 Указатели:
 _currentUser - для индикации текущего залогиневшегося пользователя.
+
 Переменные:
 bool _chatWorking - true когда чат работает. 
+
 Методы:
 1. start - включает чат. 
 2. menu - выводит пользователю меню предлагая залогиниться , зарегестрироваться или выйти.
@@ -74,6 +78,7 @@ bool _chatWorking - true когда чат работает.
 2. Функцию Show - которая выводит сообщение пользователю.
 
 Мои контакты для связи:
+<<<<<<< HEAD
 dorodnikovviktor@gmail.com - временно не работает из-за ситтуации в мире. =(
 dorodnikovviktor@yandex.ru - временный e-mail.
 
@@ -82,6 +87,14 @@ dorodnikovviktor@yandex.ru - временный e-mail.
 Открыт для сотрудничества.
 Приму участие в любом проекте на С++. 
    
+=======
 
+dorodnikovviktor@yandex.ru - временный e-mail.
+>>>>>>> d1f52d231e738cc3b4a0d53c624fb02f703181df
 
-  
+dorodnikovviktor@gmail.com - временно не работает из-за ситтуации в мире. =(
+
++7 (917) 169-30-72 - Телефон, Telegramm, What's app.
+
+Открыт для сотрудничества.
+Приму участие в любом проекте на С++.
