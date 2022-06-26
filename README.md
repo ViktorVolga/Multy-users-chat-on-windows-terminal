@@ -79,8 +79,9 @@ bool _chatWorking - true когда чат работает.
 
 Мои контакты для связи:
 
-dorodnikovviktor@gmail.com - временно не работает из-за ситтуации в мире. =(
 dorodnikovviktor@yandex.ru - временный e-mail.
+
+dorodnikovviktor@gmail.com - временно не работает из-за ситтуации в мире. =(
 
 +7 (917) 169-30-72 - Телефон, Telegramm, What's app.
 
